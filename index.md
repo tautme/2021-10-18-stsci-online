@@ -397,10 +397,6 @@ please preview your site before committing, and make sure to run
   To participate in a
   {% if site.carpentry == "swc" %}
   Software Carpentry
-  {% elsif site.carpentry == "dc" %}
-  Data Carpentry
-  {% elsif site.carpentry == "lc" %}
-  Library Carpentry
   {% endif %}
   workshop,
   you will need access to software as described below.
